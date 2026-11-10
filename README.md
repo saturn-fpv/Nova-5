@@ -40,6 +40,7 @@ The **Nova 5** is a **218 mm wheelbase freestyle frame** built for agile, hard-h
 - **2x 20mm standoffs** for an extremely rigid camera cage
 - **Stack height:** 21.5mm
 - **2-screw arm swap**: for faster repairs in the field
+- **0.5mm chamfered arms** for smooth touch and no splintering after a crash
 
 ---
 
@@ -97,7 +98,8 @@ Included prints:
 - Camera protection / front mount
 - Arm guards / motor bumpers
 - DJI O4 Pro antenna mount
-- XT60 mount
+- Back bumper
+- Capacitor mount
 
 ---
 
