@@ -39,6 +39,7 @@ The **Nova 5** is a **218 mm wheelbase freestyle frame** built for agile, hard-h
 - **30mm standoffs** for a spacious build and great sbang performance
 - **2x 20mm standoffs** for an extremely rigid camera cage
 - **Stack height:** 21.5mm
+- **2-screw arm swap**: for faster repairs in the field
 
 ---
 
