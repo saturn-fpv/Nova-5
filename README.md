@@ -1,5 +1,5 @@
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
-![Version](https://img.shields.io/badge/version-0.9%20beta-orange.svg)
+[![GitHub Release](https://img.shields.io/github/v/release/saturn-fpv/Nova-5?logo=github&color=orange)](https://github.com/saturn-fpv/Nova-5/releases)
 
 # Nova 5"
 
