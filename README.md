@@ -58,10 +58,11 @@ The design is free and open source, so you can have it made by any CNC milling s
 | Part | Thickness |
 |---|---|
 | Arms | 6 mm |
-| Bottom plate | 3 mm |
-| Center plate | 3 mm |
+| Bottom plate | 2.5 mm |
+| Center plate | 2.5 mm |
+| Top plate | 2 mm |
+| Keystone | 5.5 mm |
 | Camera plates | 3 mm |
-| Top plate | 2.5 mm |
 
 ### **Motor Recommendations**
 - **2207 or 2306 motors** with a **16 × 16 mm** bolt pattern, 4 × M3
